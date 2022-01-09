@@ -1,4 +1,4 @@
-package erueka.eruekaserver;
+package yuan.eureka.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
